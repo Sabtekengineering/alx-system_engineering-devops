@@ -1,6 +1,5 @@
 #!/bin/bash
 0 string SCHOOL School data
-!:mine SChoolin vi environment
+!:mine School in vi environment
 In terminal
-file -C -m Filename
-0 string SCHOOL Schooldata
+file -C -m filename
