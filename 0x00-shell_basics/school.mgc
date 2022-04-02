@@ -1,2 +1,4 @@
-0 string SCHOOL School data !:mine School in vi environment In terminal
+0 string SCHOOL School data
+!:mine School in vi environment
+In terminal
 file -C -m filename
